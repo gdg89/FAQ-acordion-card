@@ -1,0 +1,102 @@
+body,html{
+
+	margin:0;
+	padding:0;
+	font-size: 13px;
+	background:linear-gradient(to bottom, hsl(273, 75%, 66%), hsl(240, 73%, 65%));
+	background-repeat: no-repeat;
+	
+}
+
+	
+
+
+
+	
+
+
+main{
+	
+	
+	width: 900px;
+	height:520px;
+	margin:100px 403px 100px;
+	border-radius: 30px;
+	background: white ;
+	padding-left: 0;
+	box-sizing: border-box;
+	position: relative;
+	
+	z-index: 2;
+
+}
+#woman{
+	
+	width: 50%;
+	height:100%;
+	float:left;
+	overflow: hidden;
+
+	
+
+	
+
+
+}
+#woman img{
+	
+	margin-left: -80px;
+	margin-top: 70px;
+}
+#box{
+	
+	width: 150px;
+	height: 200px;
+	margin-top: -350px;
+	margin-left: -13px;
+	position: absolute;
+	padding-top: 40px;
+	z-index: 3;
+	}
+ 
+
+#cont-faq{
+	font-family: 'Kumbh Sans', sans-serif;
+	font-weight: 400;
+	
+	overflow: hidden;
+	width: 45%;
+	height: 450px;
+	padding:30px 20px;
+	font-size: 1em;
+	float: right;
+	margin: 20px;
+
+	
+	
+
+}
+ul{
+	width: 100%;
+}
+button{
+	color: hsl(240, 6%, 50%);
+	font-weight: 500;
+	
+
+
+}
+	button:hover{
+		color:#FA9823;
+	}
+	button:focus{
+		font-weight: 600;
+		color:black;
+		
+	}
+
+h1{
+	font-family: 'Spartan', sans-serif;
+
+}
+
